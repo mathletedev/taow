@@ -29,4 +29,4 @@ console.log(quote);
 
 ## License
 
-[MIT](https://github.com/mathletedev/taow/blob/main/README.md)
+[MIT](https://github.com/mathletedev/taow/blob/main/LICENSE)
