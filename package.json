@@ -1,0 +1,23 @@
+{
+	"name": "taow",
+	"version": "1.0.0",
+	"description": "A TypeScript Art of War quote generator",
+	"main": "lib/index.js",
+	"types": "lib",
+	"scripts": {
+		"build": "tsc -p ."
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mathletedev/taow.git"
+	},
+	"author": {
+		"name": "mathletedev",
+		"email": "mathletedev@gmail.com"
+	},
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/mathletedev/taow/issues"
+	},
+	"homepage": "https://github.com/mathletedev/taow#readme"
+}
